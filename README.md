@@ -3,7 +3,7 @@
 🚀 Tech Enthusiast | 🗃️ Full Stack Developer | 👾 Game Developer  
 🔐 Cybersecurity | ☁️ Cloud | 🎮 3D & Interactive Experiences  
 
-☕ Fueled by coffee | 🎧 Powered by music | 🏔️ Drawn to adventure | ✍️ Writing on the side
+☕ Fueled by coffee | 🎧 Powered by music | 🏔️ Drawn to adventure | 🌿 Thrives in quiet spaces | ✍️ Writing on the side
 
 ---
 
@@ -13,13 +13,17 @@ I'm **Glitch Fusion** — a developer who enjoys blending **logic, creativity, a
 
 I work across **full stack development, game development, cybersecurity, and cloud technologies**, always aiming to create solutions that are not only **efficient and secure**, but also **engaging and human-friendly**.
 
+I’m also a proud **introvert** — I do my best work in calm, focused environments where I can think deeply and build intentionally. I value my **quiet space**, where ideas have room to grow and complex problems can be explored without distraction.
+
 When I’m not coding, you’ll probably find me:
-- sipping good coffee ☕  
+- sipping good coffee in a quiet corner ☕  
 - listening to music while debugging 🎶  
+- recharging in calm, peaceful spaces 🧘‍♂️  
 - chasing adrenaline through adventurous sports 🧗‍♂️  
 - or writing — ideas, stories, or tech thoughts ✍️  
 
-> I believe the best tech comes from people who stay curious — both inside and outside the screen.
+> As an introvert, I believe focus and curiosity thrive in quiet — that’s where my best ideas are built.
+
 
 ---
 
