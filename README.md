@@ -98,7 +98,7 @@ I believe the best way to grow is by **mastering what you already know and expan
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: ((https://www.linkedin.com/in/glitch-fusion-39962a3a5/))
+- 💼 LinkedIn: ((https://www.linkedin.com/in/glitchfusion))
 
 ---
 
