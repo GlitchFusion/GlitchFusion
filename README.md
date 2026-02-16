@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Glitch Fusion
+# Hey there, I'm Glitch Fusion
 
 🚀 Tech Enthusiast | 🗃️ Full Stack Developer | 👾 Game Developer  
 🔐 Cybersecurity | ☁️ Cloud | 🎮 3D & Interactive Experiences  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🗨️ A Little About Me
+## A Little About Me
 
 I'm **Glitch Fusion** — a developer who enjoys blending **logic, creativity, and curiosity** into everything I build.
 
@@ -27,7 +27,7 @@ When I’m not coding, you’ll probably find me:
 
 ---
 
-## ⚙️ What I Enjoy Building
+## What I Enjoy Building
 
 - 💻 Full stack web applications  
 - 🎮 Games & interactive experiences  
@@ -38,11 +38,11 @@ When I’m not coding, you’ll probably find me:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
   > I'll add projects soon!
 
-<!-- 📌 *Pinned projects below highlight what I’m most proud of.* -->
+<!-- *Pinned projects below highlight what I’m most proud of.* -->
 
 ---
 
@@ -81,7 +81,7 @@ When I’m not coding, you’ll probably find me:
 
 ---
 
-## 🚀 Future Plans
+## Future Plans
 
 I believe the best way to grow is by **mastering what you already know and expanding from there**. My plan is to:
 
@@ -96,12 +96,12 @@ I believe the best way to grow is by **mastering what you already know and expan
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
-- 💼 LinkedIn: ((https://www.linkedin.com/in/glitchfusion))
+- LinkedIn: ((https://www.linkedin.com/in/glitchfusion))
 
 ---
 
 
 
-✨ *Building with curiosity. Securing with intention. Creating with passion.*
+*Building with curiosity. Securing with intention. Creating with passion.*
