@@ -46,7 +46,7 @@ When I’m not coding, you’ll probably find me:
 
 ---
 
-### 💻 Languages & Tools
+### Languages & Tools
 
 <!-- Web & Full Stack -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
